@@ -1,0 +1,19 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*( Desktop grande )*/
+@media (min-width: 1200px) {
+
+	/*= Geral ===================== */
+
+	/** Geral >> .elementor-element-284d090 **/
+	.elementor-element-284d090 {
+	width: 100% !important;
+	position: fixed !important;
+	z-index: 1 !important;
+	display: block !important;
+}
+
+
+}
+
